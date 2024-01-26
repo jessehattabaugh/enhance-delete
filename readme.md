@@ -1,6 +1,6 @@
-# {{NAME}}
+# enhance-delete
 
-{{DESCRIPTION}}
+isolating an issue with enhance.dev and DELETE methods
 
 ## Getting Started
 
